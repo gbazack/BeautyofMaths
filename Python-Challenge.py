@@ -1,5 +1,5 @@
 ################ Mathematical Function Challenge########################
-###Provide 5 functions to show High School students the bueaty of Mathematics
+###Provide 5 functions to show High School students the beauty of Mathematics
 ### Python 2 or 3 can be used to run ########
 #### Import useful Libraries
 import numpy as np
