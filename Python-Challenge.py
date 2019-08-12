@@ -12,8 +12,7 @@ from mpl_toolkits.mplot3d import Axes3D
 # Produce a binary code which is divisible by the the lenght of the code
 #Part A: Count the digit of a binary number
 def CountNum(v):
-    l=[]
-    i,g=0,0
+    l=[]; i,g=0,0
     while (v!=0):
         v=int(v/10)
         l.append (v%10)
